@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.6 # for usage with OpenNMT transformer
+  - python=3.7 # for usage with OpenNMT transformer torch = 1.2.0
   - graphviz>=2.38,<3.0
   - rdkit>=2019.09.1
   - pytables>=3.7.0,<4.0.0
