@@ -1,4 +1,4 @@
-name: aizynth-env
+name: aizynth-test 
 channels:
   - conda-forge
   - defaults
